@@ -1,0 +1,17 @@
+[2026-07-22 12:29:18.597162]: Network module will be initialized
+[2026-07-22 12:29:18.604897]: Sheriff module will be initialized
+[2026-07-22 12:29:18.604897]: Failed to read from Sheriff extra data : 2
+[2026-07-22 12:29:18.604897]: InnoRep module will be initialized
+[2026-07-22 12:29:18.747291]: GetBootVolumeId : \\?\Volume{7d1b2636-3699-465f-91d7-9e0325e1f3cf}
+[2026-07-22 12:29:23.192795]: IsVolumeProtectedByBitLocker : 0, 0
+[2026-07-22 12:29:23.192795]: HasTpmOnlyProtector : 0
+[2026-07-22 12:29:23.192795]: StorageAccessAlignmentProperty : \\.\C:
+[2026-07-22 12:29:23.192795]: 	BytesPerPhysicalSector : 512
+[2026-07-22 12:29:23.192795]: 	BytesPerLogicalSector : 512
+[2026-07-22 12:29:23.192795]: StorageDeviceProperty : \\.\C:
+[2026-07-22 12:29:23.192795]: BusType : 11
+[2026-07-22 12:29:23.192795]: DeviceType : 
+[2026-07-22 12:29:23.192795]: Removable : 
+[2026-07-22 12:29:23.192795]: ProductID : 
+[2026-07-22 12:29:23.224806]: Client installation is started
+[2026-07-22 12:29:23.224806]: Installation path is C:\Program Files (x86)\ClassM
